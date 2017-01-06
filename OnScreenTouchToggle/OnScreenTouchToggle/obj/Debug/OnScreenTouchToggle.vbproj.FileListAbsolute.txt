@@ -1,0 +1,10 @@
+C:\Users\Alexander\Desktop\Programming\OnScreenTouchToggle\OnScreenTouchToggle\OnScreenTouchToggle\obj\Debug\OnScreenTouchToggle.Form1.resources
+C:\Users\Alexander\Desktop\Programming\OnScreenTouchToggle\OnScreenTouchToggle\OnScreenTouchToggle\obj\Debug\OnScreenTouchToggle.Resources.resources
+C:\Users\Alexander\Desktop\Programming\OnScreenTouchToggle\OnScreenTouchToggle\OnScreenTouchToggle\obj\Debug\OnScreenTouchToggle.vbproj.GenerateResource.Cache
+C:\Users\Alexander\Desktop\Programming\OnScreenTouchToggle\OnScreenTouchToggle\OnScreenTouchToggle\bin\Debug\OnScreenTouchToggle.exe.config
+C:\Users\Alexander\Desktop\Programming\OnScreenTouchToggle\OnScreenTouchToggle\OnScreenTouchToggle\bin\Debug\OnScreenTouchToggle.exe
+C:\Users\Alexander\Desktop\Programming\OnScreenTouchToggle\OnScreenTouchToggle\OnScreenTouchToggle\bin\Debug\OnScreenTouchToggle.pdb
+C:\Users\Alexander\Desktop\Programming\OnScreenTouchToggle\OnScreenTouchToggle\OnScreenTouchToggle\bin\Debug\OnScreenTouchToggle.xml
+C:\Users\Alexander\Desktop\Programming\OnScreenTouchToggle\OnScreenTouchToggle\OnScreenTouchToggle\obj\Debug\OnScreenTouchToggle.exe
+C:\Users\Alexander\Desktop\Programming\OnScreenTouchToggle\OnScreenTouchToggle\OnScreenTouchToggle\obj\Debug\OnScreenTouchToggle.xml
+C:\Users\Alexander\Desktop\Programming\OnScreenTouchToggle\OnScreenTouchToggle\OnScreenTouchToggle\obj\Debug\OnScreenTouchToggle.pdb
